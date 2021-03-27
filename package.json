@@ -14,7 +14,15 @@
   "author": "Reli Salazar <naitvenefy@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReliSalazar/reli-random-names.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ReliSalazar/reli-random-names/issues"
+  },
+  "homepage": "https://github.com/ReliSalazar/reli-random-names#readme"
 }
